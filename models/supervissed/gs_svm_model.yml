@@ -1,0 +1,5 @@
+selectkbest__k: 8
+svm__C: 0.5
+svm__degree: 1
+svm__gamma: scale
+svm__kernel: rbf
