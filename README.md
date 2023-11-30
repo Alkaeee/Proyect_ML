@@ -24,4 +24,4 @@ El entrenamiento y la evaluación de los modelos se realizaron utilizando un con
 
 El conjunto de datos que se ha utilizado procede de Kaggle, si quieres saber más del conjunto de datos, pulsa el siguiente [enlace](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset/data)
 
-
+Puedes acceder al streamlit para probar el mejor modelo en la siguiente [pagina](https://appappml-pvxdztyc5qb46atmzb5nqm.streamlit.app/)
