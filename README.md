@@ -1,4 +1,4 @@
-# Proyecto-Machine-Learning
+# Proyecto Reconocimiento Imágenes Climáticas
 Este proyecto tiene como objetivo desarrollar y desplegar un sistema de clasificación de imágenes meteorológicas que puede identificar 11 tipos diferentes de condiciones meteorológicas. Los tipos de imágenes incluyen dew, fogsmog, frost, glaze, hail, lightning, rain, rainbow, rime, sandstorm y snow.
 
 ### Descripción del Proyecto
